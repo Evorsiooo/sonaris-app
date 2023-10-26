@@ -1,0 +1,19 @@
+{
+  "name": "sonaris-app",
+  "version": "1.0.0",
+  "description": "SNS app",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron index.js"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create-electron-app": "^6.4.2",
+    "electro": "^2.1.1"
+  },
+  "devDependencies": {
+    "electron": "^27.0.2"
+  }
+}
